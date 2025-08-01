@@ -1,0 +1,2 @@
+# Hydrological-Modeling-of-a-Watershed-in-the-Cerrado-of-the-Federal-District-Brazil-
+his repository contains hydrological and environmental modeling outputs for a representative watershed located in the Cerrado biome, within the Embrapa Hortaliças experimental area (Federal District, Brazil). The analysis was based on SRTM-derived Digital Elevation Models (DEM) and applied the RUSLE model and the GRASS GIS `r.watershed` module.
